@@ -235,14 +235,9 @@ users (collection)
 
 ---
 
-## 📄 License
-
-MIT License © 2025 BiasCheck Team
-
----
 
 ## 🙋‍♂️ Maintainer
 
 Built by **Alen Roy**  
-📧 alen@example.com (Replace with your contact)  
+📧 alenroy1001@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/alen-roy10/)
