@@ -1,0 +1,139 @@
+word,label,bias_type,context_notes
+he,male,pronoun,Direct gender reference
+him,male,pronoun,Direct gender reference
+his,male,pronoun,Direct gender reference
+she,female,pronoun,Direct gender reference
+her,female,pronoun,Direct gender reference
+hers,female,pronoun,Direct gender reference
+man,male,noun,Direct gender reference
+men,male,noun,Direct gender reference
+woman,female,noun,Direct gender reference
+women,female,noun,Direct gender reference
+guy,male,noun,Informal gender reference
+guys,male,noun,Informal gender reference - often used as default
+girl,female,noun,Can be infantilizing in professional context
+girls,female,noun,Can be infantilizing in professional context
+gentleman,male,noun,Formal gender reference
+gentlemen,male,noun,Formal gender reference
+lady,female,noun,Can be patronizing in professional context
+ladies,female,noun,Can be patronizing in professional context
+
+
+anchorman,male,job_title,Use anchor or news anchor instead
+assemblyman,male,job_title,Use assembly member instead
+businessman,male,job_title,Use business professional or executive instead
+cameraman,male,job_title,Use camera operator instead
+chairman,male,job_title,Use chairperson or chair instead
+clergyman,male,job_title,Use clergy member or religious leader instead
+congressman,male,job_title,Use congressperson or representative instead
+councilman,male,job_title,Use council member instead
+craftsman,male,job_title,Use craftsperson or artisan instead
+doorman,male,job_title,Use doorkeeper or concierge instead
+fireman,male,job_title,Use firefighter instead
+foreman,male,job_title,Use supervisor or team lead instead
+garbage man,male,job_title,Use waste management worker instead
+handyman,male,job_title,Use maintenance worker or repair person instead
+longshoreman,male,job_title,Use dock worker instead
+mailman,male,job_title,Use mail carrier or postal worker instead
+maintenance man,male,job_title,Use maintenance worker instead
+patrolman,male,job_title,Use patrol officer instead
+policeman,male,job_title,Use police officer instead
+salesman,male,job_title,Use salesperson or sales representative instead
+stuntman,male,job_title,Use stunt performer instead
+weatherman,male,job_title,Use meteorologist or weather forecaster instead
+workman,male,job_title,Use worker instead
+repairman,male,job_title,Use repair technician instead
+deliveryman,male,job_title,Use delivery person instead
+serviceman,male,job_title,Use service member instead
+spokesman,male,job_title,Use spokesperson instead
+stockman,male,job_title,Use stock clerk instead
+watchman,male,job_title,Use security guard instead
+
+
+ninja,male,coded,Tech industry coded term suggesting elite/exclusive
+rockstar,male,coded,Startup coded term suggesting exceptional individual
+guru,male,coded,Tech coded term suggesting expertise
+wizard,male,coded,Tech coded term suggesting technical mastery
+superhero,male,coded,Startup coded term suggesting exceptional performance
+unicorn,neutral,coded,Can be coded depending on context
+rockstar developer,male,coded,Specifically biased tech recruiting term
+code ninja,male,coded,Specifically biased tech recruiting term
+sales ninja,male,coded,Biased sales recruiting term
+marketing guru,male,coded,Biased marketing recruiting term
+
+
+warrior,male,coded,Military/sports metaphor often male-coded
+champion,male,coded,Competition metaphor often male-coded
+winner,male,coded,Competition metaphor often male-coded
+crusher,male,coded,Aggressive competition metaphor
+dominate,male,coded,Aggressive competition metaphor
+conquer,male,coded,Military/conquest metaphor
+battle,male,coded,Military metaphor
+fight,male,coded,Aggressive metaphor
+tackle,male,coded,Sports metaphor
+slam dunk,male,coded,Sports metaphor
+hit it out of the park,male,coded,Sports metaphor
+kill it,male,coded,Aggressive metaphor
+
+
+culture fit,neutral,cultural_bias,Often used to exclude diverse candidates
+cultural fit,neutral,cultural_bias,Often used to exclude diverse candidates
+team player,neutral,cultural_bias,Can be coded against individual contributors
+work hard play hard,male,cultural_bias,Often excludes work-life balance preferences
+fast-paced,neutral,age_bias,Can discriminate against older workers
+high energy,neutral,age_bias,Can discriminate against older workers
+dynamic,neutral,age_bias,Can discriminate against older workers
+energetic,neutral,age_bias,Can discriminate against older workers
+young,neutral,age_bias,Direct age discrimination
+fresh,neutral,age_bias,Can be age discriminatory
+recent graduate,neutral,age_bias,Can be age discriminatory
+digital native,neutral,age_bias,Age discriminatory term
+
+
+family-friendly,neutral,family_bias,Can discriminate against childless individuals
+work-life balance,neutral,family_bias,Context dependent
+flexible schedule,neutral,family_bias,Generally positive but context dependent
+travel required,neutral,family_bias,Can discriminate against caregivers
+extensive travel,neutral,family_bias,Can discriminate against caregivers
+relocate,neutral,family_bias,Can discriminate against those with family ties
+available weekends,neutral,family_bias,Can discriminate against caregivers
+available evenings,neutral,family_bias,Can discriminate against caregivers
+
+
+professional appearance,neutral,appearance_bias,Can be discriminatory
+well-groomed,neutral,appearance_bias,Can be discriminatory
+polished,neutral,appearance_bias,Can be discriminatory
+presentable,neutral,appearance_bias,Can be discriminatory
+clean-cut,neutral,appearance_bias,Can be discriminatory
+articulate,neutral,speech_bias,Can be racially coded
+well-spoken,neutral,speech_bias,Can be racially coded
+eloquent,neutral,speech_bias,Can be racially coded
+
+
+ivy league,neutral,class_bias,Educational elitism
+prestigious university,neutral,class_bias,Educational elitism
+top-tier,neutral,class_bias,Educational elitism
+elite,neutral,class_bias,Class discrimination
+pedigree,neutral,class_bias,Class discrimination
+blue-chip,neutral,class_bias,Class discrimination
+
+
+physical strength,neutral,physical_bias,Must be job-relevant
+stamina,neutral,physical_bias,Must be job-relevant
+endurance,neutral,physical_bias,Must be job-relevant
+heavy lifting,neutral,physical_bias,Must be job-relevant and specific
+stand for long periods,neutral,physical_bias,Must be job-relevant
+
+
+inclusive,neutral,positive,Indicates inclusive environment
+diverse,neutral,positive,Indicates commitment to diversity
+equitable,neutral,positive,Indicates fair treatment
+accessible,neutral,positive,Indicates accommodation consideration
+welcoming,neutral,positive,Indicates inclusive culture
+belonging,neutral,positive,Indicates inclusive culture
+collaborative,neutral,positive,Generally positive team indicator
+supportive,neutral,positive,Generally positive environment indicator
+respectful,neutral,positive,Generally positive environment indicator
+flexible,neutral,positive,Generally positive work arrangement
+remote-friendly,neutral,positive,Generally positive work arrangement
+hybrid,neutral,positive,Generally positive work arrangement

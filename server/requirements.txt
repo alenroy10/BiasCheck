@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+joblib
+pandas
+python-multipart
+starlette
+firebase-admin
+textblob 
