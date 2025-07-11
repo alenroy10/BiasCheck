@@ -72,7 +72,7 @@ BiasCheck/
 ### 📦 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/BiasCheck.git
+git clone https://github.com/alenroy10/BiasCheck.git
 cd BiasCheck
 ```
 
